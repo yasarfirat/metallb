@@ -1,15 +1,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-MetalLB Kurulumu
+MetalLB Installation on onpremise K8s Cluster
 
 ### Prerequests
 
-> Lütfen doğru namespace te çalıştığınızı doğrulayın.
->
 > kubectl config get-contexts
 
-Admin haklarına sahip kubeconfig ya da user bilgileri.
+Please select required kubeconfig file.
 
 
 
